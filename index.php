@@ -9,6 +9,7 @@ get_header();
                 <h2 class="category">
                     <a href="">Havn't had that</a>
                 </h2>
+                <!-- MY GIT CHANGE -->
                 <div class="image">
                     <a href="one_beer.html"><img src="<?php bloginfo('stylesheet_directory');?>/images/bigbender.png"></a>
                 </div>
